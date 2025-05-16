@@ -10,3 +10,5 @@ function loadScript(url) {
 // Load additional JS files
 loadScript("game1.js");
 console.log("master.js sent a loadScript request for game1.js");
+loadScript("src/apps/annoyingFox/foxGame.js");
+console.log("master.js sent a loadScript request for foxGame.js");
