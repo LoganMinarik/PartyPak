@@ -1,0 +1,9 @@
+#fox {
+    width: 200px; /* Adjust size as needed */
+    transition: transform 0.1s linear; /* Smooth transition for rotation */
+}
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
